@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/aaronblohowiak/easyhash.png)](http://travis-ci.org/aaronblohowiak/easyhash)
 # eeasyhash makes node.js crypto easy!
 
 I was sick of reinitializing node.js's hash function to just hash a single string that was already buffered in memory.  
